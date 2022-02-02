@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wrong_alternative">Não desanime, a prática também é um acerto</string>
+    <string name="correct_alternative">Parabéns, continue assim!</string>
+</resources>

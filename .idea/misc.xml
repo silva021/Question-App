@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_arrow_right.xml" value="0.194" />
+        <entry key="app/src/main/res/drawable/ic_book.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/ic_check.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable/ic_five.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_four.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/ic_one.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_six.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_three.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_two.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fix_question_dialog_fragment.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/fragment_question.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_question_list.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/fragment_school_subject.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_school_subject_category.xml" value="0.3314814814814815" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/question_alternative_item.xml" value="0.33381712626995647" />
+        <entry key="app/src/main/res/layout/question_alternatives_item.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/question_description_item.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/question_item.xml" value="0.355" />
+        <entry key="app/src/main/res/layout/question_list_item.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/question_title_item.xml" value="0.3703125" />
+        <entry key="app/src/main/res/layout/school_subjects_category_item.xml" value="0.3314814814814815" />
+        <entry key="app/src/main/res/layout/school_subjects_list_item.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/teste.xml" value="0.30185185185185187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

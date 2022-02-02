@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_splash">
+
+    <fragment
+        android:id="@+id/fragment_splash"
+        android:name="com.silva021.questionapp.ui.splash.SplashFragment"
+        tools:layout="@layout/fragment_splash">
+        <deepLink app:uri="app://SLASH_SCREEN" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_question_list"
+        android:name="com.silva021.questionapp.ui.schoolsubjects.list.SchoolSubjectsFragment"
+        tools:layout="@layout/fragment_school_subject">
+        <deepLink app:uri="app://SCHOOL_SUBJECT_SCREEN" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_school_subject_id"
+        android:name="com.silva021.questionapp.ui.schoolsubjects.category.SchoolSubjectsCategoryFragment">
+        <deepLink app:uri="app://SCHOOL_SUBJECT_CATEGORY_SCREEN" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_question"
+        android:name="com.silva021.questionapp.ui.question.QuestionsFragment"
+        tools:layout="@layout/fragment_question">
+        <deepLink app:uri="app://QUESTION_SCREEN" />
+    </fragment>
+</navigation>
