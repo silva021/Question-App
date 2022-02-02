@@ -38,6 +38,7 @@
             android:layout_toEndOf="@+id/img_question"
             android:gravity="center_vertical"
             android:text="A"
+            android:textSize="14sp"
             app:layout_constraintBottom_toBottomOf="@+id/img_question"
             app:layout_constraintStart_toEndOf="@+id/img_question"
             app:layout_constraintTop_toTopOf="@+id/img_question" />

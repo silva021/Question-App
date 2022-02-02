@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/drawable/ic_six.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_three.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_two.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_background.xml" value="0.1325" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.125" />
         <entry key="app/src/main/res/layout/fix_question_dialog_fragment.xml" value="0.30185185185185187" />

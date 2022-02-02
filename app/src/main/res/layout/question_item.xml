@@ -14,6 +14,7 @@
         android:layout_marginTop="6dp"
         android:layout_marginEnd="6dp"
         android:text="Questão 1"
+        android:textSize="18sp"
         android:textStyle="bold" />
 
     <androidx.appcompat.widget.AppCompatTextView
@@ -24,7 +25,8 @@
         android:gravity="start"
         android:text="O retângulo PQRS é formado por seis quadrados cujos lados medem 2 cm. O triângulo ABC, em
 seu interior, possui os vértices definidos pela interseção das diagonais de três desses quadrados,
-conforme ilustra a figura" />
+conforme ilustra a figura"
+        android:textSize="16sp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/question_alternative_list"
